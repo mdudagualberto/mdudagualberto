@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📍 Brazil<br>🧠 I'm currently learning Python and Golang<br>🎯 Goals: Become strong through execution, not theory only<br>📚 Interested in buiding projects, even during university</p>
+<p align="left">📍 Brazil<br>🧠 I'm currently learning Python and Golang<br>🎯 Goals: Become strong through execution, not only theory<br>📚 Interested in buiding projects, even during university</p>
 
 ###
 
